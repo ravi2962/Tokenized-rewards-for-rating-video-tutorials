@@ -1,3 +1,5 @@
+SS:
+<img width="1440" alt="Screenshot 2024-12-21 at 2 30 53 PM" src="https://github.com/user-attachments/assets/94470194-37e1-4f21-8850-96c2f18e65f9" />
 # Tokenized Rewards for Rating Video Tutorials
 
 ## Project Title
